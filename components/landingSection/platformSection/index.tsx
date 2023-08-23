@@ -42,7 +42,7 @@ export default function PlatformSection() {
               fontSize="lg"
               bgGradient="linear(to-r, teal.500, green.500)"
               boxShadow={
-                "0px 1px 25px -5px rgb(66 153 225 / 48%), 0 10px 10px -5px rgb(66 153 225 / 43%)"
+                "0px 1px 25px -5px rgb(187 225 0 / 48%), 0 10px 10px -5px rgb(187 225 0 / 43%)"
               }
             >
               <Text
@@ -51,7 +51,7 @@ export default function PlatformSection() {
                 color="white"
                 className={petrona.className}
               >
-                Instax App
+                ZECCA APP
               </Text>
             </Badge>
 
