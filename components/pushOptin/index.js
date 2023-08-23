@@ -7,7 +7,7 @@ export default function pushOptin({ OptInChannel }) {
     <div>
       <Center>
         <Tooltip
-          label="Subscribe to updates on Instax finance"
+          label="Subscribe to updates on Zecca Finance"
           bg="#0E1E1F"
           color="#BBFF00"
           aria-label="A tooltip"
@@ -19,7 +19,7 @@ export default function pushOptin({ OptInChannel }) {
               OptInChannel;
               toast(
                 <b style={{ color: "#BBFF00" }}>
-                  Hi there, Welcome to Intstax, Thank you for subscribing to the
+                  Hi there, Welcome to Zecca, Thank you for subscribing to the
                   Channel for updates
                 </b>,
 
