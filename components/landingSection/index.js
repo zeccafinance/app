@@ -88,7 +88,7 @@ const styles = {
 };
 
 export default function landingSection() {
-  const patterFill = useColorModeValue("#00A4BD", "#0E1E1F");
+  const patterFill = useColorModeValue("#BBFF00", "#0E1E1F");
   return (
     <>
       <Container mx="-1.75%">
@@ -189,7 +189,7 @@ export default function landingSection() {
       <Container id="about" mx="-1.7%">
         <PillPity
           borderTopWidth={0.5}
-          borderTopColor="#012604"
+          borderTopColor="#1E2902"
           className="platforms"
           style={styles.platforms}
           pattern="topography"
