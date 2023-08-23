@@ -70,7 +70,7 @@ export default function Footersection() {
         </Link>
 
         <Stack direction={"row"} spacing={6}>
-          <SocialButton label={"Twitter"} href={"#"}>
+          <SocialButton label={"Twitter"} href={"https://twitter.com/zeccafinance"}>
             <FaTwitter size="xs" />
           </SocialButton>
           <SocialButton
