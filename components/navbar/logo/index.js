@@ -9,7 +9,7 @@ export default () => {
   return (
     <Box className="logo flex flex-col items-start ml-3 mr-0.5 sm:mr-3">
       <Link
-        title="Instax.fi"
+        title="Zecca"
         href="/"
         rel="noopener noreferrer"
         className="flex flex-col items-start w-full"
