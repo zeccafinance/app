@@ -1,6 +1,6 @@
 {
   "name": "Zecca Finance",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "Building the next-best generation zk-rollup borrowing experience in DeFi",
   "main": "index.js",
   "scripts": {
